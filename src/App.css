@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+#nothing{
+  background-color: #373740;
+}
+
+.container-fluid {
+  display:inline-block;
+  margin-top: 30px;
+  width: 100%;
+  background-color: #33333D;
+}
+
+#root{
+  display:block;
+  background-color: #27272F;
+  color: white;
+}
+
